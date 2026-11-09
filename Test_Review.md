@@ -3,21 +3,23 @@
 ## 1. My Original Examination Grade
 
 ### Task 1 — /40
-**My mark:**
+**My mark:24**
 
 **Why I awarded this mark:**
-
+I declared private fields memberid, name,age and provided a constructor to initilase them
+I tried to use the getter methods and displaymethods but could not get it to work
+I was not able to use scanner to read the values
 ### Task 2 — /40
-**My mark:**
+**My mark:0**
 
 **Why I awarded this mark:**
-
+ran out of time because of poor time managment
 ### Task 3 — /20
-**My mark:**
+**My mark:0**
 
 **Why I awarded this mark:**
-
-**Total self-assessed grade:** /100
+ran out of time due to poor time managment 
+**Total self-assessed grade:** 24/100
 
 ## 2. Corrections and Improvements
 
@@ -35,7 +37,9 @@ from correcting your code?**
 
 **What would you do differently in your next
 coding test?**
-
+I would make sure everything was working before the exam git ect to reduce the time
+wasted on trying to fix it. I would also spend a lot more time studying for the exam 
+I feel like I did not give enough time for studying 
 ---
 
 ## Review lab assessment and mark recovery
