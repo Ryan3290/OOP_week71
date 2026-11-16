@@ -26,20 +26,31 @@ ran out of time due to poor time managment
 Describe two or three important problems you identified
 in your original code. Explain what you changed and
 why it works now.
+First problem I had was my displaymethods not working 
 
 ## 3. Reflection
 
 **What did you understand during the examination
 but struggle to implement?**
 
+I understood the first part of the exam declaring private fields and displaymethods however when it came to 
+implementing the displaymethods I struggled with it. I find it hard to recall things when in an exam setting
+and this is something I want to improve on. Time management was another thing I struggled with
+
+
+
 **What was the most important thing you learned
 from correcting your code?**
+That I need to spend more time studying for this subject and need to improve on my time keeping skills
+in exams also doing more questions to help with my speed in exams
 
 **What would you do differently in your next
 coding test?**
 I would make sure everything was working before the exam git ect to reduce the time
 wasted on trying to fix it. I would also spend a lot more time studying for the exam 
-I feel like I did not give enough time for studying 
+I feel like I did not give enough time for studying and I would go over 
+my labs before the exam to make sure I understand the questions
+
 ---
 
 ## Review lab assessment and mark recovery
